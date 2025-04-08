@@ -174,7 +174,7 @@ export default function Intro() {
         </div>
 
         {/* Текстовый контент с улучшенными анимациями */}
-        <div className="relative z-20 h-full mt-[32px] flex flex-col items-end justify-center px-8 md:px-16 text-right
+        <div className="relative z-20 h-full  mt-[55px] flex flex-col items-end justify-center px-8 md:px-16 text-right
                         max-md:justify-start max-md:pt-[15%]">
           <h1 className="text-GreatVibes text-6xl md:text-8xl lg:text-9xl font-extrabold mb-6 max-md:mb-4">
             <motion.div 

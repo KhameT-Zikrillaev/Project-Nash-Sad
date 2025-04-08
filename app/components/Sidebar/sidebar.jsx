@@ -63,9 +63,9 @@ const Sidebar = () => {
   };
 
   const activeItemVariants = {
-    initial: { width: '4rem', x: 0 },
+    initial: { width: '3rem', x: 0 },
     active: { 
-      width: '6rem', 
+      width: '3rem', 
       x: '1.0rem',
       transition: { type: 'spring', stiffness: 500, damping: 30 }
     }

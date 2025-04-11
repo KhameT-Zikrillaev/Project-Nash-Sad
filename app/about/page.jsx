@@ -77,7 +77,7 @@ export default function About() {
   }
 
   return (
-    <div className="w-full min-h-screen bg-green-500 mt-[-20px]   border-2 border-black flex flex-col md:flex-row relative overflow-hidden">
+    <div className="w-full min-h-screen bg-green-500  border-2 border-black flex flex-col md:flex-row relative overflow-hidden">
       {/* Многоцветный фон с эффектом "выпрыгивания" */}
       <Image
         src={fon}
